@@ -7,8 +7,8 @@ import requests
 name = input("Your name? ")
 print("Hello, ", name)
 
-# print(sys.version)
-# print(sys.executable)
+print(sys.version)
+print(sys.executable)
 
 
 def greet(who_to_greet):
